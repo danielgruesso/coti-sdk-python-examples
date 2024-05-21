@@ -1,5 +1,6 @@
 > [!NOTE]  
-> When cloning this repo, you must clone submodules as well  
+> **When cloning this repo, you must clone submodules as well**
+>   
 > ```git clone --recurse-submodules git@github.com:coti-io/coti-sdk-python-examples.git```
 
 # COTI V2 Confidential Smart Contracts | SDKs and Examples
